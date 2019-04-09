@@ -94,6 +94,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [Go语言高性能分词](https://github.com/go-ego/gse) (Go) Go efficient text segmentation; support english, chinese, japanese and other.
 
+- [FoolNLTK 基于BiLSTM模型中文分词](https://github.com/rockyzhengwu/FoolNLTK)(Python) 可能不是最快的开源中文分词，但很可能是最准的开源中文分词.基于BiLSTM模型训练而成
   
 ### Information Extraction 信息提取
 
